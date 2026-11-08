@@ -33,7 +33,7 @@ Categorical features were encoded using OneHotEncoder, and numerical features we
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** [Insert your GitHub repository URL here]
+**GitHub Repository:** [https://github.com/Niloy-2026AK05041/student-academic-success-classifier]
 
 The repository contains:
 - Streamlit application (`app.py`)
@@ -87,7 +87,7 @@ SVM achieved the best results across five of the six evaluation metrics, includi
 
 The interactive application is developed using Streamlit.
 
-**Live Application:** [Insert your deployed Streamlit application URL here]
+**Live Application:** [https://student-academic-success-classifier-4tv6p6tcsyz5rqey4to3xa.streamlit.app/]
 
 Application features:
 - CSV test dataset upload.
